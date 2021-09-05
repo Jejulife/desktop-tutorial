@@ -1,0 +1,19 @@
+.hidden {
+  display: none;
+}
+
+
+body {
+  height: 100vh;
+  background-image: 'jpgImage' ;
+  background-repeat : no-repeat;
+  background-size : cover;
+
+  justify-content: center;
+  text-shadow: 1px 1px 5px #0000008f;
+
+  display:grid;
+  place-items:center;
+  min-height:100vh;
+}
+
